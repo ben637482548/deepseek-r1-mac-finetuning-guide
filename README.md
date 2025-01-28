@@ -1,6 +1,8 @@
 # Ultimate Guide: Fine-tuning DeepSeek-R1 (Distilled Llama) Locally on M-series Mac (part A)
 *A comprehensive, step-by-step guide with validation steps and troubleshooting*
 
+> This guide is an expanded version of the original tutorial by [Avi Chawla](https://github.com/ChawlaAvi). The original tutorial can be found [here](https://x.com/_avichawla/status/1884126766132011149).
+
 ## Section 0: Prerequisites
 ### System Requirements
 - macOS ≥ 13.0 (Ventura or newer)
